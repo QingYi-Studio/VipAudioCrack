@@ -4,8 +4,11 @@
   "description": "A program that can crack some VIP music.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "author": "QingYi-Studio",
-  "license": "SEE LICENSE IN LICENSE.txt"
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
