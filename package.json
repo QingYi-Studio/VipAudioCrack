@@ -1,0 +1,11 @@
+{
+  "name": "vip-audio-crack",
+  "version": "1.0.0",
+  "description": "A program that can crack some VIP music.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "QingYi-Studio",
+  "license": "SEE LICENSE IN LICENSE.txt"
+}
